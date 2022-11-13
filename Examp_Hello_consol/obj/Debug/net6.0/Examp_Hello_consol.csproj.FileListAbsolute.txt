@@ -1,0 +1,15 @@
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/bin/Debug/net6.0/Examp_Hello_consol
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/bin/Debug/net6.0/Examp_Hello_consol.deps.json
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/bin/Debug/net6.0/Examp_Hello_consol.runtimeconfig.json
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/bin/Debug/net6.0/Examp_Hello_consol.dll
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/bin/Debug/net6.0/Examp_Hello_consol.pdb
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/obj/Debug/net6.0/Examp_Hello_consol.csproj.AssemblyReference.cache
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/obj/Debug/net6.0/Examp_Hello_consol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/obj/Debug/net6.0/Examp_Hello_consol.AssemblyInfoInputs.cache
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/obj/Debug/net6.0/Examp_Hello_consol.AssemblyInfo.cs
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/obj/Debug/net6.0/Examp_Hello_consol.csproj.CoreCompileInputs.cache
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/obj/Debug/net6.0/Examp_Hello_consol.dll
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/obj/Debug/net6.0/refint/Examp_Hello_consol.dll
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/obj/Debug/net6.0/Examp_Hello_consol.pdb
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/obj/Debug/net6.0/Examp_Hello_consol.genruntimeconfig.cache
+/Users/MyMac/Desktop/C#/les1/pervoe/Exampl_01/Examp_Hello_consol/obj/Debug/net6.0/ref/Examp_Hello_consol.dll
